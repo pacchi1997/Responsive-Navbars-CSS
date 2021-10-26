@@ -6,5 +6,5 @@ Building Responsive Navbar using HTML &amp; CSS
 
 ![image](https://user-images.githubusercontent.com/32808287/138954791-c644c1d7-1e0a-4813-9ce7-5a68c2caf85b.png)
 
-### Pure HTML & CSS only
+## Pure HTML & CSS only
 
